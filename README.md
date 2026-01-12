@@ -1,4 +1,4 @@
-# 🎵 Emotion Based Music Recommendation System
+ # 🎵 Emotion Based Music Recommendation System
 
 This project is an AI-powered music recommendation system that detects a user's facial emotion in real time and recommends songs based on their mood.
 
@@ -70,7 +70,6 @@ The UI is developed using **Streamlit**, providing:
 - A clean web interface  
 - One-click emotion scanning  
 - Real-time AI processing  
-- Clickable music recommendations
 
 ---
 
